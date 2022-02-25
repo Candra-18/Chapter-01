@@ -1,0 +1,111 @@
+body {
+  font-family: Helvetica;
+}
+.navbar-brand {
+  width: 100px;
+  height: 34px;
+  left: 136px;
+  top: 25px;
+  /* background: #0d28a6; */
+  color: #ffffff;
+}
+
+.navbar nav {
+  color: black;
+}
+.rental {
+  width: 568px;
+  height: 108px;
+  left: 136px;
+  top: 177px;
+
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 150%;
+}
+.car {
+  width: 468px;
+  height: 60px;
+  left: 136px;
+  top: 301px;
+
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.jumbotron {
+  text-align: justify;
+  padding: 50px;
+
+  background-color: #f1f3ff;
+}
+.fa-check {
+  color: #0d28a6;
+}
+.fa-circle {
+  color: #cfd4ed;
+}
+.fa-star {
+  color: gold;
+}
+.item {
+  background-color: #f1f3ff;
+  height: 300px;
+}
+.kedua {
+  background-color: #0d28a6;
+  border-radius: 10px;
+  width: 1168px;
+  height: 326px;
+  color: #ffffff;
+}
+
+.sewa {
+  text-align: center;
+  width: 468px;
+  height: 40px;
+  left: 478px;
+  top: 2212px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+.review {
+  text-align: center;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+.bold {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 150%;
+}
+.whyus {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+.item {
+  margin-left: 10px;
+}
+/* .text {
+  padding-right: 50px;
+  margin-right: 50px;
+} */
+.pertama {
+  height: 185px;
+}
+
+.sewa-biru {
+  background-color: #0d28a6;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
